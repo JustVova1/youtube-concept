@@ -3,7 +3,7 @@
 
 ## Используемые технологии
 
--HTML
--CSS
--Normalize CSS
--SVG Sprites
+- HTML
+- CSS
+- Normalize CSS
+- SVG Sprites
